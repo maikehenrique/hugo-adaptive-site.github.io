@@ -2,26 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/pages/about/</loc>
-    <lastmod>2022-02-23T16:47:17-03:00</lastmod>
+    <loc>http://localhost:1313/hugo-adaptive-site.github.io/pages/</loc>
+    <lastmod>2022-02-24T21:02:48-03:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-02-23T16:47:17-03:00</lastmod>
+    <loc>http://localhost:1313/hugo-adaptive-site.github.io/</loc>
   </url><url>
-    <loc>/pages/</loc>
-    <lastmod>2022-02-23T16:47:17-03:00</lastmod>
+    <loc>http://localhost:1313/hugo-adaptive-site.github.io/categories/</loc>
   </url><url>
-    <loc>/pages/blog/</loc>
-    <lastmod>2022-02-23T16:47:13-03:00</lastmod>
-  </url><url>
-    <loc>/pages/pricing/</loc>
-    <lastmod>2022-02-23T16:47:05-03:00</lastmod>
-  </url><url>
-    <loc>/pages/products/</loc>
-    <lastmod>2022-02-23T16:46:55-03:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>http://localhost:1313/hugo-adaptive-site.github.io/tags/</loc>
   </url>
 </urlset>
